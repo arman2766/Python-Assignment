@@ -3,6 +3,7 @@
 <h2>In this Repositories Daily Assignment of Python & Data Science </h2><br>
 <strong>Assignment-1:</strong>  https://github.com/arman2766/Python-Assignment/blob/main/Assignment-1%20(Day3).ipynb<br>
 <strong>Assignment-2:</strong> https://github.com/arman2766/Python-Assignment/blob/main/Assignment%20-2%20(Day%203).ipynb<br>
+<strong>Assignment-3:</strong>https://github.com/arman2766/Python-Assignment/blob/main/Assignment-3.ipynb
 <br>
 <br>
 <ul>
